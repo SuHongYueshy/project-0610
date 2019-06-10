@@ -7,7 +7,7 @@
 3. Machine Learning Review
 4. Machine Learning Project
 
-
+```
 Front-end: HTML / CSS / JavaScript / Bootstrap / jQuery
 
 JavaEE: JSP / Servlet
@@ -15,6 +15,7 @@ JavaEE: JSP / Servlet
 JavaEE Framework
 - Spring Framework
 - MyBaits
+```
 - Spring MVC
 
 
