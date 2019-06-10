@@ -6,3 +6,4 @@
 # @FileName : __init__.py.py
 # @GitHub   : https://github.com/thu/project-0610
 
+import this
