@@ -17,10 +17,13 @@ def a_decorator(func):
     return wrapper
 
 
+@a_decorator
 def f():
     print('function f...')
 
 
 # f()
 
-a_decorator(f)()
+# f = a_decorator(f)
+
+f()
